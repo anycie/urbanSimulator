@@ -4,3 +4,9 @@ C:\Users\idda-anycie\source\repos\UrbanSimulator\UrbanSimulator\bin\UrbanSimulat
 C:\Users\idda-anycie\source\repos\UrbanSimulator\UrbanSimulator\bin\UrbanSimulator.pdb
 C:\Users\idda-anycie\source\repos\UrbanSimulator\UrbanSimulator\obj\Debug\UrbanSimulator.dll
 C:\Users\idda-anycie\source\repos\UrbanSimulator\UrbanSimulator\obj\Debug\UrbanSimulator.pdb
+C:\Users\idda-anycie\source\repos\UrbanSimulator\bin\UrbanSimulator.dll
+C:\Users\idda-anycie\source\repos\UrbanSimulator\bin\UrbanSimulator.pdb
+C:\Users\idda-anycie\source\repos\UrbanSimulator\obj\Debug\UrbanSimulator.csprojResolveAssemblyReference.cache
+C:\Users\idda-anycie\source\repos\UrbanSimulator\obj\Debug\UrbanSimulator.csproj.CoreCompileInputs.cache
+C:\Users\idda-anycie\source\repos\UrbanSimulator\obj\Debug\UrbanSimulator.dll
+C:\Users\idda-anycie\source\repos\UrbanSimulator\obj\Debug\UrbanSimulator.pdb
